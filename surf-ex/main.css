@@ -1,0 +1,28 @@
+html{
+
+  background-color: blue;
+
+}
+
+body{
+  background-color: green;
+  width:600px;
+  height:600px;
+  margin:0 auto;
+  border-radius: 5px;
+  border: 2px solid black;
+
+}
+img{
+  border-radius: 50%;
+  border: 10px groove yellow;
+  margin-left: 150px;
+}
+#primary{
+color:white;
+}
+#secondary{
+color: orange;
+
+
+}
